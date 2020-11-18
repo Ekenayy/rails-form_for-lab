@@ -8,3 +8,5 @@
 
 SchoolClass.create(title: "Yes 101", room_number: "124")
 SchoolClass.create(title: "No 102", room_number: "344")
+
+Student.create(first_name: "ekene", last_name: "Nkem")
